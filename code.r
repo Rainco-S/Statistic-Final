@@ -16,7 +16,7 @@ library(car)
 library(forecast)
 library(corrplot)
 
-path <- '/Users/DELL/Desktop/普通统计学/期末作业/'
+path <- '' # 请在此处输入你的文件路径
 data <- read.csv(file.path(path,"/Beijing_Wanliu_data.csv"), stringsAsFactors = FALSE)
 
 str(data)
