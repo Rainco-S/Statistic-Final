@@ -1,6 +1,6 @@
 # Statistic-Final
 
-The related data source of this homework is ordered not to be uploaded anywhere, so if you want to check [代码.r](./代码.r), you need to put "Beijing_Wanliu_data.csv" into the root directory of the code.
+The related data source of this homework is ordered not to be uploaded anywhere, so if you want to check [code.r](./code.r), you need to put "Beijing_Wanliu_data.csv" into the root directory of the code.
 
 Also, there is a [GIF](./figures/PM25动态变化.gif) file which can not be put into LaTeX, so I uploaded it here in ordered to be visible.
 
